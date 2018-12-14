@@ -1,2 +1,2 @@
-*.vi linguist-language=labview
-*.js linguist-language=javascript
+*.vi linguist-language=LabVIEW
+*.py linguist-language=LabVIEW
