@@ -1,0 +1,2 @@
+*.vi linguist-language=labview
+*.js linguist-language=javascript
